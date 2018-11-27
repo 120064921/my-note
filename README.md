@@ -1,2 +1,2 @@
-# my_text
+# my-note
 Online recording tool based on Laravel development
